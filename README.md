@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,postgres,css,html,java,linux,arduino,py,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,discord,postgres,css,html,java,linux,arduino,py,vscode&perline=14" />
   </a>
 </p>
 <div id="user2-content-toc">
