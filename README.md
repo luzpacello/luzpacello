@@ -37,7 +37,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,postgres,css,html,java,linux,arduino,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,discord,postgres,css,html,java,linux,arduino,py,vscode,bootstrap&perline=14" />
   </a>
 </p>
 <div id="user2-content-toc">
@@ -48,6 +48,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,sass,bootstrap,js,django,r&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,sass,js,django,r,go,npm,nodejs,react,robloxstudio,vite&perline=14" />
   </a>
 </p>
