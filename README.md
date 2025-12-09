@@ -16,38 +16,59 @@
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luzpacello&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luzpacello&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<!--Verificar y cambiar stats-->
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luzpacello&show_icons=true&theme=dark&locale=en&layout=compact" alt="luzpacello" /></p>--
-<br><br><br><br><br><br><br>>
-
-<!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luzpacello&show_icons=true&theme=dark&locale=en" alt="luzpacello" /></p>
-<br><br><br><br><br><br><br><br><br><br>-->
-
-
-
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user1-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+
+<!-- Environment -->
+<div align="center">
+  <h2>Work Environment 👨🏻‍💻</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,postgres,css,html,java,linux,arduino,py,vscode,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,figma,notion&perline=14" />
   </a>
-</p>
-<div id="user2-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I learning 👨🏻‍💻</h2></summary>
-  </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
+
+<!-- Frontend -->
+<div align="center">
+  <h2>Frontend Technologies 👨🏻‍💻</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,react&perline=14" />
+    </a>
+</div>
+
+<!-- Roblox -->
+<div align="center">
+  <h2>Videogame Tools (Roblox) 🎮</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,sass,js,django,r,go,npm,nodejs,react,robloxstudio,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=lua&perline=14" />
   </a>
-</p>
+</div>
+<!-- Discord Bots -->
+<div align="center">
+  <h2>Discord Bot Development 🤖</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,python&perline=14" />
+  </a>
+</div>
+
+<!-- Backend -->
+<div align="center">
+  <h2>Backend Technologies 🧱</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,cpp,java,go&perline=14" />
+  </a>
+</div>
+
+<!-- IoT -->
+<div align="center">
+  <h2>IoT & Hardware 🔧</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp&perline=14" />
+  </a>
+</div>
