@@ -73,8 +73,14 @@
   </a>
 </div>
 
-<div align="left">
+div align="left">
   <h2>Connect with me:</h2>
-  <p><img align="center" scr="https://skillicons.dev/icons?i=discrod&perline=14"> User: lilith.uwu.</p>
-  <a href="https://www.instagram.com/coffe.luz.pace?igsh=Zml2ZTVybHdsc2Jk" target="blank"><img align="center" scr="https://skillicons.dev/icons?i=instagram&perline=14"></a>
+  <p>
+    <img align="center" src="https://skillicons.dev/icons?i=discord&perline=14">
+    User: lilith.uwu.
+  </p>
+  <a href="https://www.instagram.com/coffe.luz.pace?igsh=Zml2ZTVybHdsc2Jk" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram&perline=14">
+  </a>
+</div>
   <!--Agregaré más a futuro-->
