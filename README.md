@@ -30,7 +30,7 @@
 <div align="center">
   <h2>Work Environment 👨🏻‍💻</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode,figma,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,mint,git,github,vscode,figma,notion&perline=14" />
   </a>
 </div>
 
@@ -46,14 +46,14 @@
 <div align="center">
   <h2>Videogame Tools (Roblox) 🎮</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua&perline=14" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio,lua&perline=14" />
   </a>
 </div>
 <!-- Discord Bots -->
 <div align="center">
   <h2>Discord Bot Development 🤖</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bots,discordjs,nodejs,js,ts,python&perline=14" />
   </a>
 </div>
 
@@ -61,7 +61,7 @@
 <div align="center">
   <h2>Backend Technologies 🧱</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,cpp,java,go&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postgres,cpp,java,go&perline=14" />
   </a>
 </div>
 
@@ -72,3 +72,9 @@
     <img src="https://skillicons.dev/icons?i=arduino,cpp&perline=14" />
   </a>
 </div>
+
+<div align="left">
+  <h2>Connect with me:</h2>
+  <p><img align="center" scr="https://skillicons.dev/icons?i=discrod&perline=14"> User: lilith.uwu.</p>
+  <a> href="https://www.instagram.com/coffe.luz.pace?igsh=Zml2ZTVybHdsc2Jk" target="blank" <img align="center" scr="https://skillicons.dev/icons?i=instagram&perline=14"></a>
+  <!--Agregaré más a futuro-->
